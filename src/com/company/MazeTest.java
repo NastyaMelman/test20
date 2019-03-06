@@ -74,5 +74,6 @@ public class MazeTest {
             System.out.println("Хорошего дня!");
             return;
         }
+        System.out.println("Hello");
     }
 }
